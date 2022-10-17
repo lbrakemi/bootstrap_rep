@@ -1,0 +1,9 @@
+.body{
+    background-color: ;
+}
+body{
+    background-image: url(images/vessel.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
